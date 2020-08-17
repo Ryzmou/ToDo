@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053842645696",
+    "firebase_url": "https://blankx-todo.firebaseio.com",
+    "project_id": "blankx-todo",
+    "storage_bucket": "blankx-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053842645696:android:b6f98471dac5a2020dc325",
+        "android_client_info": {
+          "package_name": "de.blankx.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053842645696-1d4j0uasoas7ii88g37gnbic617n2h3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HPfvlVz_NtuTPIdPrzMcUW33uw6zsaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053842645696-1d4j0uasoas7ii88g37gnbic617n2h3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
